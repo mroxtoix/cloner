@@ -1,0 +1,12 @@
+[ Server Cloner Tool ]
+An advanced utility designed to replicate and reconstruct servers with high precision, maintaining the overall structure, settings, and permissions to save time and effort during setup.
+
+--- Key Features ---
+• Full server structure replication (roles, channels, and categories).
+• Precise permission and access control matching.
+• Fast and efficient workflow for seamless execution.
+
+[Developed by: wakeup / ix]
+
+
+open code py.
